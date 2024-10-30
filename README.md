@@ -3,6 +3,9 @@
 ## Overview  
 The **RandAO Token (RAND)** is the native utility token used within the RandAO protocol on the **AO Computer**. It powers the randomness oracle services, ensuring decentralized, tamper-proof randomness for blockchain-based applications.
 
+## Link to Project
+Soon...  
+
 ## Features  
 - **Governance:** Token holders can vote on protocol updates or adjustments to randomness parameters.  
 - **Others:** More to come as we approach mainnet.  
