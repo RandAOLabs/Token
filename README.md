@@ -29,13 +29,6 @@ NCJvLy7G8UxdbY6r_kFTrE27VbUwI4WKM3OYbuj4AyQ
 
 ---
 
-## Usage  
-1. **Obtain Tokens:** Acquire RAND tokens through the AO marketplace or receive them through airdrops.  
-2. **Staking:** Stake tokens to improve oracle accuracy and participate in governance decisions.  
-3. **Protocol Interaction:** Use the RAND token to interact with RandAO smart contracts for randomness requests.  
-
----
-
 ## Contributing  
 We welcome community contributions to improve the protocol. Submit issues or pull requests on our repository.  
 
